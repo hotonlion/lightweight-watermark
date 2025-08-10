@@ -1,0 +1,8 @@
+.vscode/**
+node_modules/**
+public/**
+src/**
+static/**
+package-lock.json
+*.config.js
+.prettierignore
