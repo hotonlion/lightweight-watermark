@@ -5,4 +5,4 @@ src/**
 static/**
 package-lock.json
 *.config.js
-
+.prettierignore
