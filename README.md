@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://hotonlion.github.io/lightweight-watermark/">
-    <img src="./static/logo.png" />
+    <img src="https://hotonlion.github.io/lightweight-watermark/static/logo.png" />
   </a>
 </p>
 
